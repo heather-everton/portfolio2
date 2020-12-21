@@ -3,15 +3,15 @@
 ## Description
 This is a my professional portfolio to allow employers to learn more about me, view my projects, and download my resume. 
 
-<img src=".public/assets/ScreenShotPortfolio.jpg" alt="project summary" width="100%" height="100%">
+<img src=".src/assets/ScreenShotPortfolio.jpg" alt="project summary" width="100%" height="100%">
 
 For each project you can see a simple screenshot of the project but also access the project online or access the github repo to review the code. 
 
-<img src=".public/assets/ScreenShotPortfolio-2.jpg" alt="project modal" width="100%" height="100%">
+<img src=".src/assets/ScreenShotPortfolio-2.jpg" alt="project modal" width="100%" height="100%">
 
 If you're interested in contacting me or downloading my resume you also have the option get get in touch. 
 
-<img src=".public/assets/ScreenShotPortfolio-3.jpg" alt="contact me page" width="100%" height="100%">
+<img src=".src/assets/ScreenShotPortfolio-3.jpg" alt="contact me page" width="100%" height="100%">
 
 
 <a href="https://github.com/heather-everton/portfolio2"><strong>Explore the docs »</strong></a>
