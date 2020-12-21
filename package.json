@@ -1,4 +1,5 @@
 {
+  "homepage": "http://heather-everton.github.io/portfolio2",
   "name": "portfolio2",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +13,6 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "http://heather-everton.github.io/portfolio2",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
