@@ -21,11 +21,11 @@ const PhotoList = ({ category }) => {
       github: 'https://github.com/heather-everton/budget-tracker-2',
     },
     {
-      name: 'Note Taker',
+      name: 'Trackt',
       category: 'projects',
-      description: 'This is a simple note taking application to capture notes and help you stay organized.',
-      url: 'https://he-notepad.herokuapp.com/',
-      github: 'https://github.com/heather-everton/Note-Taker',
+      description: 'This is a social media goal tracking application to capture goals and help you stay focused.',
+      url: 'https://fierce-basin-22098.herokuapp.com/login',
+      github: 'https://github.com/heather-everton/trackt',
     },
     {
       name: 'Team Profile Generator',

@@ -52,9 +52,6 @@ function App() {
           <li>
             <a href="linkedin.com/in/heather-everton-a4205065/" target="_blank" rel="noreferrer">LinkedIn</a>
           </li>
-          <li>
-            <a href="https://github.com/heather-everton/" target="_blank" rel="noreferrer">Github</a>
-          </li>
         </ul>
       </footer>
     </div>

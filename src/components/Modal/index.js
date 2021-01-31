@@ -8,6 +8,7 @@ const Modal = ({ onClose, currentPhoto }) => {
             <div className="modalContainer">
             <h3 className="modalTitle">{name} </h3>
                 <a href={url} target="_blank" rel="noreferrer">Check it Out!</a>
+                <br></br>
                 <img src={require(`../../assets/large/${category}/${index}.jpg`).default} alt="current category" />
                 <p>
                     {description}
